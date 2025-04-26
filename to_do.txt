@@ -1,0 +1,9 @@
+- switching between large body and small body 
+- crouching for small body 
+- button press for small body
+- pressure plate for large body
+- pick up and hold shield for large body
+- turret 
+
+Progress:
+	- working on setting camera to active body head position when game starts (in camera_controller.gd)
